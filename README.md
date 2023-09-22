@@ -1,4 +1,3 @@
-
 # IS373DockerTown
 
 ## Docker Commands
